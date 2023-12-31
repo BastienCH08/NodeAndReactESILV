@@ -1,0 +1,11 @@
+<div class="main-parent">
+    <app-admin-sidebar class="side-bar" [shortSideBar] = "shortSideBarValue"></app-admin-sidebar>
+    <div class="content-div">
+        <div class="menu-icon" (click)="sideBarFlexible()" [class.menu-icon-short] = "!shortSideBarValue">
+            <svg xmlns="http://www.w3.org/2000/svg" width="5" height="10" viewBox="0 0 5 10" fill="none">
+                <path d="M4.50001 8.96004L1.24001 5.70004C0.855013 5.31504 0.855013 4.68504 1.24001 4.30004L4.50001 1.04004" stroke="#CCCCCC" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+        </div>
+        <router-outlet></router-outlet>
+    </div>
+</div>

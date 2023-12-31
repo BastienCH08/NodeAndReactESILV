@@ -1,0 +1,38 @@
+<div class="signin-container">
+    <div class="box-container">
+        <!-- <div class="left-box">
+            
+        </div> -->
+        <div class="right-box">
+            <h1 class="title">Login</h1>
+            <form [formGroup]="loginForm" (ngSubmit)="login(loginForm)" #f="ngForm">
+                <div class="input-container">
+                    <div class="email-wrapper">
+                        <input type="text" formControlName="youremail" class="email" placeholder="Enter Email"
+                            [ngClass]="{'form-submitted': f.submitted}">
+                    </div>
+                    <div *ngIf="ui.checkErrors(g['youremail'], f)" class="errors">
+                        <p *ngIf="loginForm.controls['youremail'].errors?.['required']">Email is required</p>
+                        <p *ngIf="loginForm.controls['youremail'].errors?.['email']">Please enter valid email</p>
+                    </div>
+                </div>
+
+                <div class="input-container">
+                    <input type="number" style="display: none;">
+                    <div class="password-wrapper">
+                        <input type="password" formControlName="yourpassword" class="password"
+                            placeholder="Enter Password" [ngClass]="{'form-submitted': f.submitted}" name="yourword">
+                    </div>
+                    <div *ngIf="ui.checkErrors(g['yourpassword'], f)" class="errors">
+                        <p *ngIf="g['yourpassword'].errors?.['required']">Password is required</p>
+                    </div>
+                </div>
+                <div class="input-container">
+                    <button [disabled]="loginLoading" class="btn btn-primary" [ngClass]="loginLoading?'in-progress':''">Login
+                        <span></span><span></span><span></span>
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
