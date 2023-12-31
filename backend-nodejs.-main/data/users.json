@@ -1,0 +1,162 @@
+[
+  {
+      "userId": 1,
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "role": "admin",
+      "password": "admin123",
+      "address": "Admin Address, City, Country"
+  },
+  {
+      "userId": 2,
+      "name": "User 1",
+      "email": "user1@example.com",
+      "role": "user",
+      "password": "user123",
+      "address": "User 1 Address, City, Country"
+  },
+  {
+      "userId": 3,
+      "name": "User 2",
+      "email": "user2@example.com",
+      "role": "user",
+      "password": "user456",
+      "address": "User 2 Address, City, Country"
+  },
+  {
+      "userId": 4,
+      "name": "User 3",
+      "email": "user3@example.com",
+      "role": "user",
+      "password": "user789",
+      "address": "User 3 Address, City, Country"
+  },
+  {
+      "userId": 5,
+      "name": "User 4",
+      "email": "user4@example.com",
+      "role": "user",
+      "password": "user101112",
+      "address": "User 4 Address, City, Country"
+  },
+  {
+      "userId": 6,
+      "name": "User 5",
+      "email": "user5@example.com",
+      "role": "user",
+      "password": "user131415",
+      "address": "User 5 Address, City, Country"
+  },
+  {
+      "userId": 7,
+      "name": "User 6",
+      "email": "user6@example.com",
+      "role": "user",
+      "password": "user161718",
+      "address": "User 6 Address, City, Country"
+  },
+  {
+      "userId": 8,
+      "name": "User 7",
+      "email": "user7@example.com",
+      "role": "user",
+      "password": "user192021",
+      "address": "User 7 Address, City, Country"
+  },
+  {
+      "userId": 9,
+      "name": "User 8",
+      "email": "user8@example.com",
+      "role": "user",
+      "password": "user222324",
+      "address": "User 8 Address, City, Country"
+  },
+  {
+      "userId": 10,
+      "name": "User 9",
+      "email": "user9@example.com",
+      "role": "user",
+      "password": "user252627",
+      "address": "User 9 Address, City, Country"
+  },
+  {
+      "userId": 11,
+      "name": "User 10",
+      "email": "user10@example.com",
+      "role": "user",
+      "password": "user282930",
+      "address": "User 10 Address, City, Country"
+  },
+  {
+      "userId": 12,
+      "name": "User 11",
+      "email": "user11@example.com",
+      "role": "user",
+      "password": "user313233",
+      "address": "User 11 Address, City, Country"
+  },
+  {
+      "userId": 13,
+      "name": "User 12",
+      "email": "user12@example.com",
+      "role": "user",
+      "password": "user343536",
+      "address": "User 12 Address, City, Country"
+  },
+  {
+      "userId": 14,
+      "name": "User 13",
+      "email": "user13@example.com",
+      "role": "user",
+      "password": "user373839",
+      "address": "User 13 Address, City, Country"
+  },
+  {
+      "userId": 15,
+      "name": "User 14",
+      "email": "user14@example.com",
+      "role": "user",
+      "password": "user404142",
+      "address": "User 14 Address, City, Country"
+  },
+  {
+      "userId": 16,
+      "name": "User 15",
+      "email": "user15@example.com",
+      "role": "user",
+      "password": "user434445",
+      "address": "User 15 Address, City, Country"
+  },
+  {
+      "userId": 17,
+      "name": "User 16",
+      "email": "user16@example.com",
+      "role": "user",
+      "password": "user464748",
+      "address": "User 16 Address, City, Country"
+  },
+  {
+      "userId": 18,
+      "name": "User 17",
+      "email": "user17@example.com",
+      "role": "user",
+      "password": "user495051",
+      "address": "User 17 Address, City, Country"
+  },
+  {
+      "userId": 19,
+      "name": "User 18",
+      "email": "user18@example.com",
+      "role": "user",
+      "password": "user525354",
+      "address": "User 18 Address, City, Country"
+  },
+  {
+      "userId": 20,
+      "name": "User 19",
+      "email": "user19@example.com",
+      "role": "user",
+      "password": "user555657",
+      "address": "User 19 Address, City, Country"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+      "id": 1,
+      "name": "Watch",
+      "description": "A stylish watch suitable for any occasion.",
+      "price": 20.99,
+      "imageUrl": "https://cdn.discordapp.com/attachments/1190278761321595003/1190279166336180304/download.jpeg"
+  },
+  {
+      "id": 2,
+      "name": "Laptop",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 15.49,
+      "imageUrl": "https://cdn.discordapp.com/attachments/1190278761321595003/1190284862226186271/UEEkgUpRTeWcwpGaYpPJES.png"
+  },
+  {
+      "id": 3,
+      "name": "Mobile",
+      "description": "Sleek and modern design for everyday use.",
+      "price": 30.00,
+      "imageUrl": "https://cdn.discordapp.com/attachments/1190278761321595003/1190285289655128114/pexels-spitak-11376175-1024x576.png"
+  },
+  {
+      "id": 4,
+      "name": "Mobile 2",
+      "description": "High-quality materials for durability.",
+      "price": 25.99,
+      "imageUrl": "https://cdn.discordapp.com/attachments/1190278761321595003/1190285503300390922/oppo-bgN2SGR9kkU-unsplash-uai-1440x960-1.png"
+  },
+  {
+      "id": 5,
+      "name": "AirPods",
+      "description": "A versatile product suitable for multiple purposes.",
+      "price": 18.75,
+      "imageUrl": "https://cdn.discordapp.com/attachments/1190278761321595003/1190285758511186002/GaiRBeuWXEQELwqSr4XUR-1200-80.png"
+  },
+  {
+      "id": 6,
+      "name": "HeadPhones",
+      "description": "Elegant and functional design.",
+      "price": 40.00,
+      "imageUrl": "https://cdn.discordapp.com/attachments/1190278761321595003/1190286041362481233/a53c754ec08ea51b654c68b2749b11c1.png"
+  },
+  {
+      "id": 7,
+      "name": "Gaming Cpu",
+      "description": "Affordable yet stylish option for your needs.",
+      "price": 22.49,
+      "imageUrl": "https://cdn.discordapp.com/attachments/1190278761321595003/1190286341271998545/custom-gaming-pcs.png"
+  },
+  {
+      "id": 8,
+      "name": "Keyboard",
+      "description": "Comfortable and reliable for everyday use.",
+      "price": 19.99,
+      "imageUrl": "https://cdn.discordapp.com/attachments/1190278761321595003/1190286782089154671/mechanicalkeyboards-2048px-4906-2x1-1.png"
+  },
+  {
+      "id": 9,
+      "name": "Mobile 3",
+      "description": "Premium quality for a luxurious experience.",
+      "price": 35.00,
+      "imageUrl": "https://cdn.discordapp.com/attachments/1190278761321595003/1190287005389705296/8-best-6gb-mobile-phones-for-unparalleled-performance-and-amazing-power.png"
+  },
+  {
+      "id": 10,
+      "name": "Laptop 2",
+      "description": "A must-have item with exceptional features.",
+      "price": 50.00,
+      "imageUrl": "https://cdn.discordapp.com/attachments/1190278761321595003/1190287325155041280/asus_zenbook_x14_oled_2023_3.png"
+  }
+]
