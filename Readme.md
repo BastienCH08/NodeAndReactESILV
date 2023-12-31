@@ -1,6 +1,16 @@
+
+Project ESILV Node and React
+
+In group of 3 members:
+Shangzhi LOU
+Sainan BI
+Bastien CHEREL
+
+We delevoped an application for the final project of the semester decomposed into 2 parts: frontend and backend.
+
 Frontend Development:
 The frontend of the web application has been crafted using Angular and TypeScript to ensure a robust and scalable user interface. 
-I was leveraging the power of Angular, the project extensively utilized ng-Bootstrap for a sleek and responsive design, providing a seamless user experience.
+We were leveraging the power of Angular, the project extensively utilized ng-Bootstrap for a sleek and responsive design, providing a seamless user experience.
 Furthermore, the implementation included the integration of ag-Grid, a highly versatile library facilitating dynamic and feature-rich tables, 
 ensuring efficient data representation and manipulation., a powerful charting graph library, was seamlessly incorporated to visualize data and offer insightful representations.
 
