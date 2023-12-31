@@ -19,6 +19,7 @@ Backend Development:
 The backend architecture was built on Node.js and TypeScript, utilizing Express as the framework to facilitate efficient server-side operations. 
 The implementation focused on providing a robust and secure foundation for the entire application. Additionally, for data management, the system was designed with support for PostgreSQL, 
 leveraging Sequelize as the ORM library. This setup ensured efficient database interactions, enhancing data integrity and reliability.
+The backend files was too large for the commit we decided to trim the file by removing node_modules. However this version may not work.
 
 Web Features:
 Moreover, the application extensively utilized LocalStorage for client-side data storage, enhancing performance and user convenience.
